@@ -1,0 +1,21 @@
+[submodule "screeps-gruntfile"]
+	path = screeps-gruntfile
+	url = https://gist.github.com/krnd/f6ac654fe4f34e55b0ed8189a950d3e3
+[submodule "editorconfig"]
+	path = editorconfig
+	url = https://gist.github.com/krnd/c30eb12309f1876171918787097dd250
+[submodule "git-gitignore"]
+	path = git-gitignore
+	url = https://gist.github.com/krnd/5dba40653a00acef42d1cf761a913d63
+[submodule "python-yapf"]
+	path = python-yapf
+	url = https://gist.github.com/krnd/3b8c5834c5c5c5097638ec10729787f7
+[submodule "python-flake8"]
+	path = python-flake8
+	url = https://gist.github.com/krnd/1f3fb6c05af365977e486c47cb7b4a72
+[submodule "javascript-eslint"]
+	path = javascript-eslint
+	url = https://gist.github.com/krnd/a5eb52aa488b1da078a274b4f3f45db1
+[submodule "javascript-jsdoc"]
+	path = javascript-jsdoc
+	url = https://gist.github.com/krnd/6c254299509f6d63d672a029ff1eb01e
