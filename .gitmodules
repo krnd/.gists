@@ -34,3 +34,6 @@
 [submodule "vim-vimrc"]
 	path = vim-vimrc
 	url = https://gist.github.com/acf5b87ccbffe973cf2fe31e001222b6.git
+[submodule "powershell-ohmyposh"]
+	path = powershell-ohmyposh
+	url = https://gist.github.com/6cbf63d7fa3895c8d9305162987dd118.git
