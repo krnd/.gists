@@ -37,9 +37,9 @@
 [submodule "powershell-profile"]
 	path = powershell-profile
 	url = https://gist.github.com/a6d8fcfbe9d7929d8cbb371fdcb3926f.git
-[submodule "git-gitconfig"]
-	path = git-gitconfig
-	url = https://gist.github.com/25a0b5f0623d25fcf783894370f39df1.git
 [submodule "windows-terminal"]
 	path = windows-terminal
 	url = https://gist.github.com/31cb6d2e18c97723188c722add8b0ace.git
+[submodule "git-gitconfig"]
+	path = git-gitconfig
+	url = https://gist.github.com/25a0b5f0623d25fcf783894370f39df1.git
