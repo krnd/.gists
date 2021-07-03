@@ -7,6 +7,7 @@
 * [ ] javascript-eslintignore
 * [ ] javascript-jsdoc
 * [ ] powershell-ohmyposh
+* [x] powershell-profile
 * [ ] python-flake8
 * [ ] python-yapf
 * [ ] screeps-gruntfile
