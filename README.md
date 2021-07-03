@@ -12,4 +12,5 @@
 * [ ] python-yapf
 * [ ] screeps-gruntfile
 * [ ] unity-project_setup_script
+* [x] windows-terminal 
 * [x] vim-vimrc
