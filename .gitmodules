@@ -4,9 +4,6 @@
 [submodule "git-gitattributes"]
 	path = git-gitattributes
 	url = https://gist.github.com/krnd/b1a2c8f62f60021203db7711dafc37ea
-[submodule "git-gitconfig"]
-	path = git-gitconfig
-	url = https://gist.github.com/d54ababda8e1e5a19a20f97c6079857e.git
 [submodule "git-gitignore"]
 	path = git-gitignore
 	url = https://gist.github.com/krnd/5dba40653a00acef42d1cf761a913d63
@@ -40,3 +37,6 @@
 [submodule "powershell-profile"]
 	path = powershell-profile
 	url = https://gist.github.com/a6d8fcfbe9d7929d8cbb371fdcb3926f.git
+[submodule "git-gitconfig"]
+	path = git-gitconfig
+	url = https://gist.github.com/25a0b5f0623d25fcf783894370f39df1.git

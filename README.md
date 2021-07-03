@@ -6,9 +6,9 @@
 * [ ] javascript-eslint
 * [ ] javascript-eslintignore
 * [ ] javascript-jsdoc
-* [ ] powershell-ohmyposh
+* [x] powershell-ohmyposh
 * [x] powershell-profile
-* [ ] python-flake8
+* [x] python-flake8
 * [ ] python-yapf
 * [ ] screeps-gruntfile
 * [ ] unity-project_setup_script
