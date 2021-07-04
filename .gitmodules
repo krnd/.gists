@@ -49,3 +49,6 @@
 [submodule "bash-bash_profile"]
 	path = bash-bash_profile
 	url = https://gist.github.com/cdbc640b14a3f9d2d240adaeb471e3c0.git
+[submodule "bash-bashrc"]
+	path = bash-bashrc
+	url = https://gist.github.com/62d82a9297d2f0473aa5847726680be1.git

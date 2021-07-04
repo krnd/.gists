@@ -2,6 +2,7 @@
 
 * [x] editorconfig
 * [x] bash-bash_profile
+* [x] bash-bashrc
 * [x] bash-inputrc
 * [x] git-gitattributes
 * [x] git-gitconfig
