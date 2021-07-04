@@ -46,3 +46,6 @@
 [submodule "bash-inputrc"]
 	path = bash-inputrc
 	url = https://gist.github.com/fc35c84654a4788c63e8a8cef2b2ecb0.git
+[submodule "bash-bash_profile"]
+	path = bash-bash_profile
+	url = https://gist.github.com/cdbc640b14a3f9d2d240adaeb471e3c0.git

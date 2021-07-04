@@ -1,6 +1,7 @@
 **TODO**
 
 * [x] editorconfig
+* [x] bash-bash_profile
 * [x] bash-inputrc
 * [x] git-gitattributes
 * [x] git-gitconfig
